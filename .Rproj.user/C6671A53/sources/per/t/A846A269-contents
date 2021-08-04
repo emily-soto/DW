@@ -1,0 +1,10 @@
+install.packages("RMySQL")
+install.packages("lubridate")
+install.packages("openxlsx")
+install.packages("tidyverse")
+install.packages("stringr")
+install.packages("readr")
+
+getwd()
+setwd("C:/Users/Emily Soto/Documents/GitHub/DW")
+
